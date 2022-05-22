@@ -120,7 +120,8 @@
 #define SEC_TS_FW_HEADER_SIGN		0x53494654
 #define SEC_TS_FW_CHUNK_SIGN		0x53434654
 
-#define SEC_TS_FW_UPDATE_ON_PROBE
+// Droidian: disabled
+//#define SEC_TS_FW_UPDATE_ON_PROBE
 
 #define AMBIENT_CAL			0
 #define OFFSET_CAL_SDC			1
